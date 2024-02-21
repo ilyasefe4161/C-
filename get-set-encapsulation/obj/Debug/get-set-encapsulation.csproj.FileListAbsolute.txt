@@ -1,0 +1,8 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\obj\Debug\get-set-encapsulation.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\obj\Debug\get-set-encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\obj\Debug\get-set-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\bin\Debug\get-set-encapsulation.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\bin\Debug\get-set-encapsulation.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\bin\Debug\get-set-encapsulation.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\obj\Debug\get-set-encapsulation.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\get-set-encapsulation\obj\Debug\get-set-encapsulation.pdb

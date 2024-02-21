@@ -1,0 +1,7 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\obj\Debug\ref_out.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\obj\Debug\ref_out.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\bin\Debug\ref_out.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\bin\Debug\ref_out.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\bin\Debug\ref_out.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\obj\Debug\ref_out.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ref_out\obj\Debug\ref_out.pdb

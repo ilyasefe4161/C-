@@ -1,0 +1,8 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\obj\Debug\c11-2.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\obj\Debug\c11-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\obj\Debug\c11-2.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\bin\Debug\c11-2.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\bin\Debug\c11-2.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\bin\Debug\c11-2.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\obj\Debug\c11-2.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\c11-2\obj\Debug\c11-2.pdb

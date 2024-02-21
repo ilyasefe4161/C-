@@ -1,0 +1,15 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.deps.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.runtimeconfig.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\refint\TypeConversion.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.genruntimeconfig.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\TypeConversion\TypeConversion\obj\Debug\net6.0\ref\TypeConversion.dll

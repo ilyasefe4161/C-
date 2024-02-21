@@ -1,0 +1,15 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\bin\Debug\net6.0\WhichTriangle.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\bin\Debug\net6.0\WhichTriangle.deps.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\bin\Debug\net6.0\WhichTriangle.runtimeconfig.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\bin\Debug\net6.0\WhichTriangle.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\bin\Debug\net6.0\WhichTriangle.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.AssemblyInfoInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.AssemblyInfo.cs
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\refint\WhichTriangle.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\WhichTriangle.genruntimeconfig.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\WhichTriangle\WhichTriangle\obj\Debug\net6.0\ref\WhichTriangle.dll

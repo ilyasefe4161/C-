@@ -1,0 +1,20 @@
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.exe.config
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.exe
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.pdb
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csprojAssemblyReference.cache
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.Form1.resources
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.Properties.Resources.resources
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csproj.GenerateResource.cache
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csproj.CoreCompileInputs.cache
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.exe
+C:\Users\nesay\source\repos\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\bin\Debug\Draw_Pie_Graphic.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Draw_Pie_Graphic\obj\Debug\Draw_Pie_Graphic.pdb

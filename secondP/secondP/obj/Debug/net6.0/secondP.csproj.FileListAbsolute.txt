@@ -1,0 +1,15 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\bin\Debug\net6.0\secondP.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\bin\Debug\net6.0\secondP.deps.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\bin\Debug\net6.0\secondP.runtimeconfig.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\bin\Debug\net6.0\secondP.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\bin\Debug\net6.0\secondP.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.AssemblyInfoInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.AssemblyInfo.cs
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\refint\secondP.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\secondP.genruntimeconfig.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\secondP\secondP\obj\Debug\net6.0\ref\secondP.dll

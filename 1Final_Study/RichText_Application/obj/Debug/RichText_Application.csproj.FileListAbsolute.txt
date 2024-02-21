@@ -1,0 +1,10 @@
+C:\Users\nesay\source\repos\RichText_Application\bin\Debug\RichText_Application.exe.config
+C:\Users\nesay\source\repos\RichText_Application\bin\Debug\RichText_Application.exe
+C:\Users\nesay\source\repos\RichText_Application\bin\Debug\RichText_Application.pdb
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.csprojAssemblyReference.cache
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.Form1.resources
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.Properties.Resources.resources
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.csproj.GenerateResource.cache
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.csproj.CoreCompileInputs.cache
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.exe
+C:\Users\nesay\source\repos\RichText_Application\obj\Debug\RichText_Application.pdb

@@ -1,0 +1,20 @@
+C:\Users\nesay\source\repos\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.exe.config
+C:\Users\nesay\source\repos\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.exe
+C:\Users\nesay\source\repos\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.pdb
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.Form1.resources
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.Properties.Resources.resources
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csproj.GenerateResource.cache
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.exe
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.pdb
+C:\Users\nesay\source\repos\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csprojAssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\bin\Debug\Radio_Button_Lesson.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\Radio_Button_Lesson\obj\Debug\Radio_Button_Lesson.pdb

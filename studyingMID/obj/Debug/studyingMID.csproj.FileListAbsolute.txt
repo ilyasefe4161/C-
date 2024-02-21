@@ -1,0 +1,7 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\bin\Debug\studyingMID.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\bin\Debug\studyingMID.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\bin\Debug\studyingMID.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\obj\Debug\studyingMID.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\obj\Debug\studyingMID.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\obj\Debug\studyingMID.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\studyingMID\obj\Debug\studyingMID.pdb

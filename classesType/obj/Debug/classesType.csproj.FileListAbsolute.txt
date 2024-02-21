@@ -1,0 +1,8 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\obj\Debug\classesType.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\obj\Debug\classesType.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\obj\Debug\classesType.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\bin\Debug\classesType.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\bin\Debug\classesType.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\bin\Debug\classesType.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\obj\Debug\classesType.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\classesType\obj\Debug\classesType.pdb

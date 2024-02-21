@@ -1,0 +1,34 @@
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.Form1.resources
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.Form2.resources
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.Form3.resources
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.exe.manifest
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.exe
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.pdb
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\database.accdb
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\project1.exe.config
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\project1.exe.manifest
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\project1.application
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\project1.exe
+C:\Users\ilyasefe\Desktop\project1\bin\Debug\project1.pdb
+C:\Users\ilyasefe\Desktop\project1\obj\Debug\project1.application
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\database.accdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\project1.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\project1.exe.manifest
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\project1.application
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\project1.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\bin\Debug\project1.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.Form2.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.Form3.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.exe.manifest
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.application
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\project1\obj\Debug\project1.pdb

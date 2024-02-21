@@ -1,0 +1,20 @@
+C:\Users\ilyasefe\Desktop\study_final\bin\Debug\study_final.exe.config
+C:\Users\ilyasefe\Desktop\study_final\bin\Debug\study_final.exe
+C:\Users\ilyasefe\Desktop\study_final\bin\Debug\study_final.pdb
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.Form1.resources
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.Properties.Resources.resources
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.csproj.GenerateResource.cache
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.exe
+C:\Users\ilyasefe\Desktop\study_final\obj\Debug\study_final.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\bin\Debug\study_final.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\bin\Debug\study_final.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\bin\Debug\study_final.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\study_final\obj\Debug\study_final.pdb

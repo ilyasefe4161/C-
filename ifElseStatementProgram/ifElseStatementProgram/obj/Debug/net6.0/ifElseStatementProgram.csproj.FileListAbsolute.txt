@@ -1,0 +1,15 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.AssemblyInfoInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.AssemblyInfo.cs
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\bin\Debug\net6.0\ifElseStatementProgram.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\bin\Debug\net6.0\ifElseStatementProgram.deps.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\bin\Debug\net6.0\ifElseStatementProgram.runtimeconfig.json
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\bin\Debug\net6.0\ifElseStatementProgram.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\bin\Debug\net6.0\ifElseStatementProgram.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\refint\ifElseStatementProgram.dll
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ifElseStatementProgram.genruntimeconfig.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ifElseStatementProgram\ifElseStatementProgram\obj\Debug\net6.0\ref\ifElseStatementProgram.dll

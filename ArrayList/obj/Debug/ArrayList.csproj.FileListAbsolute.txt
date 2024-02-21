@@ -1,0 +1,3 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache

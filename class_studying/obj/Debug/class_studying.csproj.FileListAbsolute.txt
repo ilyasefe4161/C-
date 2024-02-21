@@ -1,0 +1,7 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\bin\Debug\class_studying.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\bin\Debug\class_studying.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\bin\Debug\class_studying.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\obj\Debug\class_studying.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\obj\Debug\class_studying.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\obj\Debug\class_studying.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\class_studying\obj\Debug\class_studying.pdb

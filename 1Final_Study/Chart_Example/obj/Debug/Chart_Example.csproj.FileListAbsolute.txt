@@ -1,0 +1,30 @@
+C:\Users\nesay\source\repos\Chart_Example\bin\Debug\Chart_Example.exe.config
+C:\Users\nesay\source\repos\Chart_Example\bin\Debug\Chart_Example.exe
+C:\Users\nesay\source\repos\Chart_Example\bin\Debug\Chart_Example.pdb
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.csprojAssemblyReference.cache
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.Form1.resources
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.Properties.Resources.resources
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.csproj.GenerateResource.cache
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.csproj.CoreCompileInputs.cache
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.exe
+C:\Users\nesay\source\repos\Chart_Example\obj\Debug\Chart_Example.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\bin\Debug\Chart_Example.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\bin\Debug\Chart_Example.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\bin\Debug\Chart_Example.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\codes\Chart_Example\obj\Debug\Chart_Example.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.csproj.AssemblyReference.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.Form1.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.Properties.Resources.resources
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.csproj.GenerateResource.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.csproj.CoreCompileInputs.cache
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\obj\Debug\Chart_Example.pdb
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\bin\Debug\Chart_Example.exe.config
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\bin\Debug\Chart_Example.exe
+D:\KBU\Computer Engineering\Third Year\First Term\Visual Programming\C#\1study\Chart_Example\bin\Debug\Chart_Example.pdb

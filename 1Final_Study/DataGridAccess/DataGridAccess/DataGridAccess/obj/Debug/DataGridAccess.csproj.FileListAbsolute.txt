@@ -1,0 +1,10 @@
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\bin\Debug\DataGridAccess.exe.config
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\bin\Debug\DataGridAccess.exe
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\bin\Debug\DataGridAccess.pdb
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.csprojAssemblyReference.cache
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.Form1.resources
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.Properties.Resources.resources
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.csproj.GenerateResource.cache
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.csproj.CoreCompileInputs.cache
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.exe
+C:\Users\nesay\source\repos\DataGridAccess\DataGridAccess\DataGridAccess\obj\Debug\DataGridAccess.pdb

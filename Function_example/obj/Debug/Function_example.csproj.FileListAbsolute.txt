@@ -1,0 +1,8 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\obj\Debug\Function_example.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\obj\Debug\Function_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\obj\Debug\Function_example.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\bin\Debug\Function_example.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\bin\Debug\Function_example.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\bin\Debug\Function_example.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\obj\Debug\Function_example.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\Function_example\obj\Debug\Function_example.pdb

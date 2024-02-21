@@ -1,0 +1,8 @@
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\bin\Debug\public-private-class-hmwrk.exe.config
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\bin\Debug\public-private-class-hmwrk.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\bin\Debug\public-private-class-hmwrk.pdb
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\obj\Debug\public-private-class-hmwrk.csproj.AssemblyReference.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\obj\Debug\public-private-class-hmwrk.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\obj\Debug\public-private-class-hmwrk.csproj.CoreCompileInputs.cache
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\obj\Debug\public-private-class-hmwrk.exe
+C:\Users\ilyasefe\Desktop\first term\Visual Programming\codes\public-private-class-hmwrk\obj\Debug\public-private-class-hmwrk.pdb
